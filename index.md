@@ -4,4 +4,7 @@
   .footer {
     display: none;
   }
+  .header {
+    display: none;
+  }
 </style>
