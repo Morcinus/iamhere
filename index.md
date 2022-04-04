@@ -9,4 +9,7 @@
   header {
     display: none;
   }
+  section {
+    width: 100%;
+  }
 </style>
